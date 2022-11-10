@@ -33,7 +33,7 @@ class APIService: NSObject {
         
         urlRequest.httpMethod = "GET"
         urlRequest.allHTTPHeaderFields = [
-            "X-Rapidapi-Key": "02ea944a42msh9419208b8b72ff2p1205bajsn5a562c23fb05",
+            "X-Rapidapi-Key": "xxx",
             "X-Rapidapi-Host": "airbnb19.p.rapidapi.com"
         ]
         
